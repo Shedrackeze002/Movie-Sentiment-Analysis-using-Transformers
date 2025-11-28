@@ -1,0 +1,5 @@
+{
+  "test_accuracy": 90.71,
+  "evaluated_samples": 25000,
+  "notes": "Accuracy computed with bert-base-uncased fine-tuned for 3 epochs on 6k IMDB training samples."
+}
