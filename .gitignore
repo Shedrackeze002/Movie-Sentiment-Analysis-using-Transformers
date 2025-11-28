@@ -18,7 +18,3 @@ Thumbs.db
 # IDE
 .vscode/
 .idea/
-
-# Large model files
-artifacts/*.pt
-*.pt
