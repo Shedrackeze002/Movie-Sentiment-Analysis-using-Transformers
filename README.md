@@ -7,7 +7,7 @@
 
 A natural language processing project that performs **binary sentiment classification** on movie reviews using **transformer-based models**. The project fine-tunes BERT and other transformer architectures on the IMDB dataset to classify reviews as positive or negative.
 
-# Deployed live at: https://huggingface.co/spaces/shedrackeze/movie-sentiment-analyzer
+### Deployed live at: https://huggingface.co/spaces/shedrackeze/movie-sentiment-analyzer
 
 ## 🎯 Project Objective
 
